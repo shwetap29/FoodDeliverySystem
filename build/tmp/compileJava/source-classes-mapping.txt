@@ -1,0 +1,19 @@
+com/fooddelivery/DalFry.java
+ com.fooddelivery.DalFry
+com/fooddelivery/PotatoFry.java
+ com.fooddelivery.PotatoFry
+com/fooddelivery/FoodItem.java
+ com.fooddelivery.FoodCategories
+ com.fooddelivery.FoodItem
+ com.fooddelivery.FoodType
+ com.fooddelivery.Taste
+com/fooddelivery/PaneerMasala.java
+ com.fooddelivery.PaneerMasala
+com/fooddelivery/ChickenCurry.java
+ com.fooddelivery.ChickenCurry
+com/fooddelivery/MasalaPapad.java
+ com.fooddelivery.MasalaPapad
+com/fooddelivery/FoodStore.java
+ com.fooddelivery.FoodStore
+com/fooddelivery/Application.java
+ com.fooddelivery.Application
